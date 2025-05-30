@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/uugceo/Visual Studio Projects/KURSACH/build",
+  "command": "/usr/bin/clang++  -I\"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/include\" -g -std=gnu++17 -arch arm64 -o CMakeFiles/KURSACH.dir/src/Main.cpp.o -c \"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/Main.cpp\"",
+  "file": "/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/Main.cpp",
+  "output": "CMakeFiles/KURSACH.dir/src/Main.cpp.o"
+},
+{
+  "directory": "/Users/uugceo/Visual Studio Projects/KURSACH/build",
+  "command": "/usr/bin/clang++  -I\"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/include\" -g -std=gnu++17 -arch arm64 -o CMakeFiles/KURSACH.dir/src/railway_system.cpp.o -c \"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/railway_system.cpp\"",
+  "file": "/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/railway_system.cpp",
+  "output": "CMakeFiles/KURSACH.dir/src/railway_system.cpp.o"
+},
+{
+  "directory": "/Users/uugceo/Visual Studio Projects/KURSACH/build",
+  "command": "/usr/bin/clang++  -I\"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/include\" -g -std=gnu++17 -arch arm64 -o CMakeFiles/KURSACH.dir/src/sorting_node.cpp.o -c \"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/sorting_node.cpp\"",
+  "file": "/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/sorting_node.cpp",
+  "output": "CMakeFiles/KURSACH.dir/src/sorting_node.cpp.o"
+},
+{
+  "directory": "/Users/uugceo/Visual Studio Projects/KURSACH/build",
+  "command": "/usr/bin/clang++  -I\"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/include\" -g -std=gnu++17 -arch arm64 -o CMakeFiles/KURSACH.dir/src/wagon.cpp.o -c \"/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/wagon.cpp\"",
+  "file": "/Users/uugceo/Visual Studio Projects/KURSACH/KODIK/src/wagon.cpp",
+  "output": "CMakeFiles/KURSACH.dir/src/wagon.cpp.o"
+}
+]

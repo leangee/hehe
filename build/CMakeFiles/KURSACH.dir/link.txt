@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/KURSACH.dir/src/Main.cpp.o CMakeFiles/KURSACH.dir/src/railway_system.cpp.o CMakeFiles/KURSACH.dir/src/sorting_node.cpp.o CMakeFiles/KURSACH.dir/src/wagon.cpp.o -o KURSACH

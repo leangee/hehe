@@ -1,0 +1,3 @@
+/Users/uugceo/Visual Studio Projects/KURSACH/build/CMakeFiles/KURSACH.dir
+/Users/uugceo/Visual Studio Projects/KURSACH/build/CMakeFiles/edit_cache.dir
+/Users/uugceo/Visual Studio Projects/KURSACH/build/CMakeFiles/rebuild_cache.dir
